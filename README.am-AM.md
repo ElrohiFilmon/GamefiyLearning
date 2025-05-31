@@ -1,4 +1,4 @@
-# ጋሚፋይ ላንጉዌጅ ማስተሪ (Gamify Language Mastery)
+# ጌሚፋይ ላንጉዌጅ ማስተሪ (Gamify Language Mastery)
 
 _በሌሎች ቋንቋዎችም ይህንን ያንብቡ፦:_
 [_አማርኛ_](README.am-AM.md) [_English_](README.md)\
