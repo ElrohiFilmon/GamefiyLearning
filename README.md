@@ -8,7 +8,7 @@ _Read this in other languages:_
 
 Gamify Language Mastery is an interactive learning platform designed to make language acquisition fun and effective. Leveraging gamification techniques and AI assistance, it provides users with courses, challenges, learning paths, and personalized missions to enhance their skills in various programming languages.
 
-![Contact Manager](./contact_manager.png)
+![Gamify Language Mastery](./DescPhoto.png)
 
 This documentation outlines the project's structure, usage, and key features to help you understand and contribute to its development.
 
